@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi hi 👋
 
-<!--
-**Resmor17/Resmor17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Eric, i am from Mexico and currently work in the finance branch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+## Skills
+- Autodidact
+- A patient mate
+- Some Python coding
+- Like  SAS coding
+- Some SQL coding 
+- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
